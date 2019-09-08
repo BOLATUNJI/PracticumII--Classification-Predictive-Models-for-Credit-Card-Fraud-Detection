@@ -12,8 +12,8 @@ The purpose of this data science practicum project is to develop a machine learn
 
 
 
-2.	Data
+**2.	Data**
 
-2.1 Presentation of the data
+**2.1 Presentation of the data**
 
 This project used Kaggle data set located at https://www.kaggle.com/mlg-ulb/creditcardfraud to achieve its objectives. It contains transactions that took place in two days, where out of 284,807 transactions we have 492 fraudulent transactions. The dataset contains only numerical input variables due to Principal Component Analysis (PCA) transformation and confidentiality issues. The dataset has 31 Features including 28 PCA transformed Attributes and two attributes that are not transformed by PCA. The last feature is the target attribute of interest in this practicum project. This last feature is the Transaction Class and it can be Fraudulent or Non-Fraudulent.
