@@ -70,7 +70,7 @@ Hence, it can be inferred that an average of 122 is lost to fraudulent transacti
 
 
 
-Histograms of the dataset variables were created to visualize the distribution of the features data. Figure 6 showcases the histogram for each of the credit card fraud detection attribute. Each histogram below highlights if the distribution of data for each of the variable is symmetric, left-skewed or right-skewed. 
+Histograms of the dataset variables were created to visualize the distribution of the features data. Each histogram below highlights if the distribution of data for each of the variable is symmetric, left-skewed or right-skewed. 
 
 
 <img src="/Plots/Histograms%20of%20Credit%20Card%20Fraud%20Detection%20Features.PNG" width="800" >
