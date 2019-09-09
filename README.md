@@ -56,7 +56,8 @@ The data is from two days credit card transactions as highlighted by maximum tim
  
     
 
-    From Table 2 above for fraudulent transaction class summary statistics, the minimum transaction amount is 0.0, the maximum transaction amount is 2125.87 and the average transaction amount is 122.21. 
+    From Table 2 above for fraudulent transaction class summary statistics, the minimum transaction amount is 0.0, the maximum 
+transaction amount is 2125.87 and the average transaction amount is 122.21. 
 
 
 
