@@ -48,4 +48,7 @@ The data is from two days credit card transactions as highlighted by maximum tim
  Tables 2 and 3 further provide the summary statistics of fraudulent and non-fraudulent transactions. 
  
  
+ <img src="/Plots/Fraudulent%20Transactions%20Summary%20Statistics%20Table%202.PNG" width="800" >
+
+ 
  
