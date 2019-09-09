@@ -39,4 +39,9 @@ It is imperative to highlight the significant contrast within the Transaction Cl
 Summary Statistics and Histograms of the Attributes were used to highlight the overall view of the credit card fraud detection dataset. Table 1 depicts the Summary Statistics of the dataset features. 
 
 
-                   *Table 1: Summary Statistics of Credit Card Fraud Detection Attributes*
+                   Table 1: Summary Statistics of Credit Card Fraud Detection Attributes
+                 
+
+
+
+The data is from two days credit card transactions as highlighted by maximum time in seconds of 172792 in Table 1 above. This is approximately equal to two days in seconds. Furthermore, the minimum transaction amount is 0.0 and the maximum transaction amount 88.34.
