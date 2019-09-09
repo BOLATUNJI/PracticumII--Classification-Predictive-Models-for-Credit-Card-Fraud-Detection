@@ -147,4 +147,7 @@ From these Train-Test Single performance results, Extreme Gradient Boosting mode
 
 The followings are the Precision-Recall Curves depicting the five models Precision-Recall Curves:
 
+***Logistic Regression Model Precision-Recall Curve***
+
+<img src="/Plots/Logistic%20Regression%20Precision-Recall%20Curve.PNG" width="800" >
 
