@@ -51,7 +51,7 @@ The data is from two days credit card transactions as highlighted by maximum tim
  <img src="/Plots/Fraudulent%20Transactions%20Summary%20Statistics%20Table%202.PNG" width="800" >
 
  
- <img src="Plots/Non-Fraudulent%20Transactions%20Summary%20Statistics%20Table%203.PNG" width="800" >
+ <img src="/Plots/Non-Fraudulent%20Transactions%20Summary%20Statistics%20Table%203.PNG" width="800" >
  
  
     
@@ -61,6 +61,9 @@ The data is from two days credit card transactions as highlighted by maximum tim
 From Table 2 above for fraudulent transaction class summary statistics, the minimum transaction amount is 0.0, the maximum 
 transaction amount is 2125.87 and the average transaction amount is 122.21. 
 Hence, it can be inferred that an average of 122 is lost to fraudulent transaction. However, from Table 3 above for non-fraudulent transaction class summary statistics, the minimum transaction amount is 0.0, the maximum transaction amount is 25691 and the mean value of non-fraudulent is 88.89. Hence, the average amount for non-fraudulent transaction is 88.29.  Also, based on the difference between the minimum and maximum transaction amount, it can be concluded that non-fraudulent transaction class has a wide range. Furthermore, figures 4 and 5 showcase the top 10 distribution of fraudulent and non-fraudulent transactions.
+
+
+<img src="/Plots/Distribution%20of%20Top%2010%20Fraudulent%20Transaction%20Amount.PNG" width="800" >
 
 
 
