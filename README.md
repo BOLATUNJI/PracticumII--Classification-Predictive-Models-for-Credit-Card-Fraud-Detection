@@ -82,3 +82,6 @@ The performance of a classification machine learning model is greatly affected b
 
 
 To determine the important features for the transaction class, univariate selection process was leveraged in this project to identify relevant features (independent variables) that contribute the most to the classification of transactions as either non-fraudulent or fraudulent.
+
+
+<img src="/Plots/Univariate%20Feature%20Selection%20Result.PNG" width="800" >
