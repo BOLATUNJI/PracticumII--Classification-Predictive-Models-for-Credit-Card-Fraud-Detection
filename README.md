@@ -51,4 +51,4 @@ The data is from two days credit card transactions as highlighted by maximum tim
  <img src="/Plots/Fraudulent%20Transactions%20Summary%20Statistics%20Table%202.PNG" width="800" >
 
  
- 
+ <img src="Plots/Non-Fraudulent%20Transactions%20Summary%20Statistics%20Table%203.PNG" width="800" >
