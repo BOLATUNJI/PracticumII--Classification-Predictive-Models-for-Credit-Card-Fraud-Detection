@@ -161,3 +161,12 @@ The followings are the Precision-Recall Curves depicting the five models Precisi
 
 <img src="/Plots/random%20forest%20model%20precision%20recall%20curve.PNG" width="800" >
 
+
+Extreme Gradient Boosting Model Precision-Recall Curve
+
+<img src="/Plots/Extreme%20Gradient%20Boosting%20Precision-Recall%20Curve.PNG" width="800" >
+
+
+K Nearest Neighbors (KNN) Model Precision-Recall Curve
+
+<img src="/Plots/KNN%20Precision-Recall%20Curve.PNG" width="800" >
