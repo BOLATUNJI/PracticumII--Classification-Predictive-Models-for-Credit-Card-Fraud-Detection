@@ -233,4 +233,15 @@ From the above performance results, all the models produced their best performan
 
 •	For balanced data with cross validation and oversampling, both random forest and extreme gradient boosting models produced perfect performance results. Hence, there is a tie between the two models.
 
-•	From the results obtained from this project, my recommended solution for this credit card fraud detection is to go with balanced data leveraging both cross validation and oversampling with Random Forest model as my first choice and Extreme Gradient Boosting model as my second choice.
+•	From the results obtained from this project, my recommended model for this credit card fraud detection is balanced data leveraging both cross validation and oversampling with Random Forest model as my first choice and Extreme Gradient Boosting model as my second choice.
+
+
+
+***7 Future Work***
+
+Future work on this project would involve utilizing unsupervised learning methods to perform credit card fraud detection. It would be interesting to see how the performance of unsupervised learning methods would compare with the supervised learning methods’ results obtained in this project.
+
+Furthermore, I would like to learn if better performance results can be obtained with the utilization of other resampling techniques including SMOTE (Synthetic Minority Over-sampling Technique) combined with cross-validation.
+
+
+
