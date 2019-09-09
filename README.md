@@ -129,6 +129,8 @@ In this project the following methods were utilized in the construction of the m
 
 •	The models were constructed the fourth time utilizing both cross-validation and oversampling techniques. In this project, oversampling was performed by randomly replicating observations in fraudulent transaction class to match the number of observations in the non-fraudulent class.
 
+<img src="/Plots/Oversampled%20Transaction%20Class%20Distribution.PNG" width="800" >
+
 
 ***5	Results***
 
