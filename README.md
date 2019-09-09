@@ -212,3 +212,25 @@ The following is the accuracy, precision, recall, f1-score and roc-auc model eva
 From the above performance results, all the models produced their best performance results with the incorporation of both cross validation and oversampling. Both Random Forest and Extreme Gradient Boosting models produced perfect performance results. Hence, there is a tie between the two models.
 
 
+
+***6.	Conclusions***
+
+•	In this project, five classification predictive models leveraging Linear Regression, Decision Tree, Random Forest, Extreme Gradient Boosting and K Nearest Neighbors (KNN) were developed for credit card fraud detection.
+
+•	Most of the transactions in the dataset are Non-Fraudulent while only very few transactions are Fraudulent Transactions. Hence, the dataset has an imbalanced transaction class distribution.
+
+•	For the imbalanced data with single 70/30 train to test ratio split, Extreme Gradient Boosting model produced the best result with precision score of 0.95, Recall score of 0.82, F1-Score of 0.88 and Precision-Recall AUC score of 0.89 for the Fraudulent Transaction Class.
+
+•	Extreme Gradient Boosting model also produced the best Precision-Recall curve among the five models' precision-recall curves for the imbalanced data.
+
+•	For the balanced data with cross validation and undersampling, Logistic Regression Model produced the best result with accuracy of 0.939, precision score of 0.968, recall score of 0.908, F1-Score of 0.937 and ROC-AUC of 0.978.
+
+•	Balanced dataset was produced through resampling techniques including undersampling and oversampling.
+
+•	For the balanced data with cross validation and undersampling, Logistic Regression Model produced the best result with accuracy of 0.939, precision score of 0.968, recall score of 0.908, F1-Score of 0.937 and ROC-AUC of 0.978.
+
+•	For the balanced data with cross validation and oversampling, all the five models produced their best performance results in comparison with results obtained from the single split, cross-validation and cross validation with undersampling.
+
+•	For balanced data with cross validation and oversampling, both random forest and extreme gradient boosting models produced perfect performance results. Hence, there is a tie between the two models.
+
+•	From the results obtained from this project, my recommended solution for this credit card fraud detection is to go with balanced data leveraging both cross validation and oversampling with Random Forest model as my first choice and Extreme Gradient Boosting model as my second choice.
