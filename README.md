@@ -110,3 +110,5 @@ For this practicum project, I chose to utilize five different Python Scikit lear
 •	Random Forest Classifier. This is the third model developed in this classification predictive project. It is an ensemble method and it combines multiple decision trees in determining the final output.
 
 •	Extreme Gradient Boosting:  This is the fourth python Scikit learn library classification algorithm utilized for model construction in this project. This classification algorithm develops models in a stage-wise manner and creates a prediction model in the form of an ensemble of weak prediction models, normally decision tree.
+
+•	 K Nearest Neighbors (KNN): This is the fifth classification algorithm leveraged for model construction in this project. KNN works by leveraging a number of nearest neighbors (k) to classify outcomes in a dataset.
