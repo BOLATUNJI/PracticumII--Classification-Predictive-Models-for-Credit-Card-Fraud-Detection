@@ -209,3 +209,6 @@ The following is the accuracy, precision, recall, f1-score and roc-auc model eva
 <img src="/Plots/Classification%20Models%20Results%20for%20Cross%20Validation%20and%20%20Oversampling%20%20Comparison.PNG" width="800" >
 
 
+From the above performance results, all the models produced their best performance results with the incorporation of both cross validation and oversampling. Both Random Forest and Extreme Gradient Boosting models produced perfect performance results. Hence, there is a tie between the two models.
+
+
