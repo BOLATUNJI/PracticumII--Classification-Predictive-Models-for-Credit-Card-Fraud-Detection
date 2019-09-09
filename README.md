@@ -68,3 +68,11 @@ Hence, it can be inferred that an average of 122 is lost to fraudulent transacti
 
 <img src="/Plots/Distribution%20of%20Top%2010%20Non-Fraudulent%20Transaction%20Amount.PNG" width="800" >
 
+
+
+Histograms of the dataset variables were created to visualize the distribution of the features data. Figure 6 showcases the histogram for each of the credit card fraud detection attribute. Each histogram below highlights if the distribution of data for each of the variable is symmetric, left-skewed or right-skewed. 
+
+
+
+
+
