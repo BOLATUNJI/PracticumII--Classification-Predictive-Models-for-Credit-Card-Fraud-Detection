@@ -245,3 +245,20 @@ Furthermore, I would like to learn if better performance results can be obtained
 
 
 
+
+
+***References***
+
+Brownlee J. May 2016. Metrics To Evaluate Machine Learning Algorithms in Python. Retrieved from https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/
+
+Brownlee J. August 2018. How and When to Use ROC Curves and Precision-Recall Curves for Classification in Python. Retrieved from  
+https://www.researchgate.net/publication/332631570_A_Comparison_Study_of_Credit_Card_Fraud_Detection_Supervised_versus_Unsupervised/link/5cc6b8894585156cd7b9aa0c/download
+
+https://stackoverflow.com/questions.
+
+https://www.kaggle.com/mlg-ulb/creditcardfraud/discussion
+
+https://www.kaggle.com/mlg-ulb/creditcardfraud/kernels
+
+https://www.researchgate.net/publication/40227011_Credit_card_fraud_and_detection_techniques_A_review
+
