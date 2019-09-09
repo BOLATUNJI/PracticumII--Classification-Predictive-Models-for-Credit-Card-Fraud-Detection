@@ -112,3 +112,17 @@ For this practicum project, I chose to utilize five different Python Scikit lear
 •	Extreme Gradient Boosting:  This is the fourth python Scikit learn library classification algorithm utilized for model construction in this project. This classification algorithm develops models in a stage-wise manner and creates a prediction model in the form of an ensemble of weak prediction models, normally decision tree.
 
 •	 K Nearest Neighbors (KNN): This is the fifth classification algorithm leveraged for model construction in this project. KNN works by leveraging a number of nearest neighbors (k) to classify outcomes in a dataset.
+
+
+***4.2	Methods***
+
+In this project the following methods were utilized in the construction of the models:
+
+•	All the five models were first constructed using the dataset with a single split into training and test dataset with a 70 to 30 ratio. The models were fitted on the training dataset and the performance of the models were evaluated utilizing the test data.
+
+•	The models were developed the second time with the incorporation of 5-fold cross-validation on the dataset. This requires training the same classification model multiple (five) times leveraging different split each time.
+
+•	The models were constructed the third time utilizing both cross-validation and undersampling techniques. In this project, undersampling was performed by randomly selecting 492 observations from the non-fraudulent class to match the number of observations in the fraudulent transaction class.
+
+•	The models were constructed the fourth time utilizing both cross-validation and oversampling techniques. In this project, oversampling was performed by randomly replicating observations in fraudulent transaction class to match the number of observations in the non-fraudulent class.
+
