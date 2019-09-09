@@ -87,7 +87,7 @@ To determine the important features for the transaction class, univariate select
 <img src="/Plots/Univariate%20Feature%20Selection%20Result.PNG" width="600" >
 
 
-The above figure 7 result identifies features V17, V14, V12, V10 and V16 are the top five features that facilitate the classification of a transaction as either a non-fraudulent or fraudulent transaction. Feature Selection is further performed for most of the classification models developed in this project.
+The above result identifies features V17, V14, V12, V10 and V16 are the top five features that facilitate the classification of a transaction as either a non-fraudulent or fraudulent transaction. Feature Selection is further performed for most of the classification models developed in this project.
 
 It is worth noting that some classifiers do have feature importance attribute. The following features importance results were produced by Decision Tree, Random Forest and Extreme Gradient Boosting Classifiers.
 
