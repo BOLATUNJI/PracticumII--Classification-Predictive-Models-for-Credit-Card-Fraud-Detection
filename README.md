@@ -170,3 +170,8 @@ Extreme Gradient Boosting Model Precision-Recall Curve
 K Nearest Neighbors (KNN) Model Precision-Recall Curve
 
 <img src="/Plots/KNN%20Precision-Recall%20Curve.PNG" width="800" >
+
+
+A Precision-Recall curve is essentially a plot of the precision on the y-axis and the recall on the x-axis for different thresholds. Precision-Recall Curve is appropriate to use since we are dealing with a highly imbalanced class between non-fraudulent majority class and fraudulent minority class. 
+
+Extreme Gradient Boosting model produced the best Precision -Recall Curve among the five precision-recall curves.
