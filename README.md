@@ -54,4 +54,4 @@ The data is from two days credit card transactions as highlighted by maximum tim
  <img src="Plots/Non-Fraudulent%20Transactions%20Summary%20Statistics%20Table%203.PNG" width="800" >
  
  
-     From Table 2 above for fraudulent transaction class summary statistics, the minimum transaction amount is 0.0, the maximum  transaction amount is 25691 and the mean value of non-fraudulent is 88.89. 
+    
