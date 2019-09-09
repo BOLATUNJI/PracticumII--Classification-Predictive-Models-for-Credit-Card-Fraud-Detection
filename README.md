@@ -145,5 +145,6 @@ The followings are the Precision, Recall, f1-score, and Precision-Recall AUC mod
 From these Train-Test Single performance results, Extreme Gradient Boosting model based on a single 70/30 train to test ratio split produced precision score of 0.95, Recall score of 0.82, F1-Score of 0.88 and Precision-Recall AUC score of 0.89 for the Fraudulent Transaction. Hence, Extreme Gradient Boosting model produced the best metrics among the five models developed for this single train-test split. 
 
 
+The followings are the Precision-Recall Curves depicting the five models Precision-Recall Curves:
 
 
