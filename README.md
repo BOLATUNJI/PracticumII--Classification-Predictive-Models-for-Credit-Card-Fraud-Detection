@@ -142,7 +142,7 @@ The following is the Precision, Recall, f1-score, and Precision-Recall AUC model
 <img src="/Plots/Train-Test%20Single%20Split%20Performance%20Models%20Results.PNG" width="800" >
 
 
-From these Train-Test Single performance results, Extreme Gradient Boosting model based on a single 70/30 train to test ratio split produced precision score of 0.95, Recall score of 0.82, F1-Score of 0.88 and Precision-Recall AUC score of 0.89 for the Fraudulent Transaction. Hence, Extreme Gradient Boosting model produced the best metrics among the five models developed for this single train-test split. 
+From the Train-Test Single performance results, Extreme Gradient Boosting model based on a single 70/30 train to test ratio split produced precision score of 0.95, Recall score of 0.82, F1-Score of 0.88 and Precision-Recall AUC score of 0.89 for the Fraudulent Transaction. Hence, Extreme Gradient Boosting model produced the best metrics among the five models developed for this single train-test split. 
 
 
 The followings are the Precision-Recall Curves depicting the five models Precision-Recall Curves:
@@ -181,5 +181,10 @@ The following is the accuracy, precision, recall, f1-score and roc-auc model eva
 
 
 ***Classification Models’ Results for 5-folds Cross-Validation Comparison***
+
+<img src="/Plots/Classification%20Models%20Results%20for%20Cross%20Validation%20Comparison.PNG" width="800" >
+
+
+From the above performance results, Logistic Regression Model produced the best precision score, the best recall score was produced by Extreme Gradient Boosting and the best F1-Score was produced by Random Forest Model with the incorporation of 5-fold cross validation to the models. 
 
 
