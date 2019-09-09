@@ -101,3 +101,12 @@ It is worth noting that some classifiers do have feature importance attribute. T
 There are two types of supervised machine learning algorithms including Regression and Classification.  To classify credit card transactions as either fraudulent or non-fraudulent, predictive classification models are used. Using Python Scikit learn library, various kinds of classification models can be developed and implemented. 
 
 For this practicum project, I chose to utilize five different Python Scikit learn classification methods/algorithms for training and building five different classification models:
+
+
+•	Logistic Regression: This is a classification algorithm.  In this project, this algorithm is leveraged to estimate the probability of a credit card transaction class outcome as either fraudulent or non-fraudulent based on the 28 PCA transformed features and transaction amount. 
+
+•	Decision Tree Classifier: This is the second classification model constructed in this project.  In this project, it trains a classification model in a flowchart-like tree structure to output predicted transaction class as either fraudulent or non-fraudulent.
+
+•	Random Forest Classifier. This is the third model developed in this classification predictive project. It is an ensemble method and it combines multiple decision trees in determining the final output.
+
+•	Extreme Gradient Boosting:  This is the fourth python Scikit learn library classification algorithm utilized for model construction in this project. This classification algorithm develops models in a stage-wise manner and creates a prediction model in the form of an ensemble of weak prediction models, normally decision tree.
