@@ -66,5 +66,5 @@ Hence, it can be inferred that an average of 122 is lost to fraudulent transacti
 <img src="/Plots/Distribution%20of%20Top%2010%20Fraudulent%20Transaction%20Amount.PNG" width="800" >
 
 
-
+<img src="/Plots/Distribution%20of%20Top%2010%20Non-Fraudulent%20Transaction%20Amount.PNG" width="800" >
 
