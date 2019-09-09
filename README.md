@@ -76,3 +76,6 @@ Histograms of the dataset variables were created to visualize the distribution o
 <img src="/Plots/Histograms%20of%20Credit%20Card%20Fraud%20Detection%20Features.PNG" width="800" >
 
 
+***3.	 Feature Selection***
+The performance of a classification machine learning model is greatly affected by feature selection. It is worth noting that model performance can be negatively affected by irrelevant or partially pertinent features. The process of manually or automatically selecting those features or input that contribute the most to the target or prediction variable is called Feature Selection. It minimizes overfitting, fosters prediction accuracy and minimizes training time.
+    	To determine the important features for the transaction class, univariate selection process was leveraged in this project to identify relevant features (independent variables) that contribute the most to the classification of transactions as either non-fraudulent or fraudulent.
