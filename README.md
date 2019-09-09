@@ -124,6 +124,9 @@ In this project the following methods were utilized in the construction of the m
 
 •	The models were constructed the third time utilizing both cross-validation and undersampling techniques. In this project, undersampling was performed by randomly selecting 492 observations from the non-fraudulent class to match the number of observations in the fraudulent transaction class.
 
+           <img src="/Plots/Undersampled%20Transaction%20Class%20Distribution.PNG" width="800" >
+
+
 •	The models were constructed the fourth time utilizing both cross-validation and oversampling techniques. In this project, oversampling was performed by randomly replicating observations in fraudulent transaction class to match the number of observations in the non-fraudulent class.
 
 
