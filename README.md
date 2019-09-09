@@ -91,3 +91,13 @@ The above figure 7 result identifies features V17, V14, V12, V10 and V16 are the
 
 It is worth noting that some classifiers do have feature importance attribute. The following features importance results were produced by Decision Tree, Random Forest and Extreme Gradient Boosting Classifiers.
 
+
+
+
+***4.	Methods***
+
+***4.1 Models***
+
+There are two types of supervised machine learning algorithms including Regression and Classification.  To classify credit card transactions as either fraudulent or non-fraudulent, predictive classification models are used. Using Python Scikit learn library, various kinds of classification models can be developed and implemented. 
+
+For this practicum project, I chose to utilize five different Python Scikit learn classification methods/algorithms for training and building five different classification models:
