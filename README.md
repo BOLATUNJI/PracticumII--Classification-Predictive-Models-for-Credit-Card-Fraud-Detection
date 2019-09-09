@@ -151,3 +151,13 @@ The followings are the Precision-Recall Curves depicting the five models Precisi
 
 <img src="/Plots/Logistic%20Regression%20Precision-Recall%20Curve.PNG" width="800" >
 
+
+***Decision Tree Model Precision-Recall Curve***
+
+<img src="/Plots/Decision%20Tree%20Precision-Recall%20Curve.PNG" width="800" >
+
+
+***Random Forest Model Precision-Recall Curve***
+
+<img src="/Plots/random%20forest%20model%20precision%20recall%20curve.PNG" width="800" >
+
