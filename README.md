@@ -37,3 +37,6 @@ It is imperative to highlight the significant contrast within the Transaction Cl
 ***2.4	Exploratory Data Analysis (EDA)***
 
 Summary Statistics and Histograms of the Attributes were used to highlight the overall view of the credit card fraud detection dataset. Table 1 depicts the Summary Statistics of the dataset features. 
+
+
+                   *Table 1: Summary Statistics of Credit Card Fraud Detection Attributes*
