@@ -114,6 +114,23 @@ The above result identifies features V17, V14, V12, V10 and V16 as the top five 
 It is worth noting that some classifiers do have feature importance attribute. The following features importance results were produced by Decision Tree, Random Forest and Extreme Gradient Boosting Classifiers.
 
 
+***Decision Tree Model Features Importance***
+
+
+<img src="/Plots/Decision%20Tree%20Model%20Features%20Importance.PNG" width="600" >
+
+
+*** Random Forest Model Features Importance***
+
+
+<img src="/Plots/Random%20Forest%20Model%20Features%20Importance.PNG" width="600" >
+
+
+*** Random Forest Model Features Importance***
+
+
+img src="/Plots/Extreme%20Gradient%20Boosting%20Model%20Features%20Importance.PNG
+
 
 
 ***4.	Methods***
