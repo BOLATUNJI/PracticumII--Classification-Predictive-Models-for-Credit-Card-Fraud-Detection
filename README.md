@@ -55,12 +55,14 @@ Summary Statistics and Histograms of the Attributes are used to highlight the ov
 The data is from two days credit card transactions as highlighted by maximum time in seconds of 172792 in Table 1 above. This is approximately equal to two days in seconds. Furthermore, the minimum transaction amount is 0.0 and the maximum transaction amount 88.34.
 
 
- Tables 2 and 3 further provide the summary statistics of fraudulent and non-fraudulent transactions. 
+ The followings further provide the summary statistics of fraudulent and non-fraudulent transactions. 
  
+ ***Summary Statistics of Fraudulent Transactions***
  
  <img src="/Plots/Fraudulent%20Transactions%20Summary%20Statistics%20Table%202.PNG" width="800" >
 
  
+ ***Summary Statistics of Non-Fraudulent Transactions***
  <img src="/Plots/Non-Fraudulent%20Transactions%20Summary%20Statistics%20Table%203.PNG" width="800" >
  
  
