@@ -126,7 +126,7 @@ It is worth noting that some classifiers do have feature importance attribute. T
 <img src="/Plots/Random%20Forest%20Model%20Features%20Importance.PNG" width="600" >
 
 
-*** Random Forest Model Features Importance***
+***Extreme Gradient Boosting Model Features Importance***
 
 
 <img src="/Plots/Extreme%20Gradient%20Boosting%20Model%20Features%20Importance.PNG" width="600">
