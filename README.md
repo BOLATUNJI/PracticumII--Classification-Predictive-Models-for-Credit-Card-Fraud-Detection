@@ -7,10 +7,12 @@ MSDS-696-Data Science Practicum II Project - To build 5 machine learning classif
 ***1.	Problems and Purpose***
 
 
+
 ***1.1 Problems***
 
 
 Credit Card Fraud Detection is a major and challenging task for most organizations especially in banking, finance, retail, and e-commerce. Credit card fraud is a broad word for theft and fraud committed using or involving a payment card as a fraudulent source of funds in a transaction, such as a credit card or debit card. It is worth noting that the incidence of credit card fraud is limited to about 0.1 percent of all card transactions, it has resulted in enormous financial losses as the fraudulent transactions were big value transactions. Hence, it has always become high-priority for organizations to stop these frauds or even predicting all suspicious transactions beforehand.
+
 
 ***1.2 Purpose***
 
